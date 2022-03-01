@@ -2,3 +2,6 @@
   Niki
   Simon
   John
+  karen
+  Sarah
+  Lucas
